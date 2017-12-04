@@ -8,14 +8,8 @@
 
 namespace app\async\controller;
 
-
 use app\common\command\cmd;
 use think\Request;
-
-
-
-
-
 
 class Async
 {
